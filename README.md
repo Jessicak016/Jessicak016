@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Jessica K.</h1>
-<h3 align="center">An aspiring data analyst with NLP background</h3>
+<h3 align="center">Aspiring data analyst with NLP and healthcare background</h3>
 
 - 📫 How to reach me **jessjkim@umich.edu**
 
