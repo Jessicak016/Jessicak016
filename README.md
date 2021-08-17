@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="30"/></a>
   <a href="https://www.nltk.org/" target="_blank"><img src="https://miro.medium.com/max/1184/1*5dQO7LHrsy3lIi2d0bgRLw.png" alt="nltk" width="40" height="40"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/360px-Matplotlib_icon.svg.png" alt="matplotlib" width="40" height="40"/></a>
+  <a href="https://spacy.io/" target="_blank"><img src="https://miro.medium.com/max/1184/1*5dQO7LHrsy3lIi2d0bgRLw.png" alt="nltk" width="40" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spacy" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://i1.wp.com/cmdlinetips.com/wp-content/uploads/2020/09/Seaborn_logo.png?resize=234%2C246&ssl=1" alt="seaborn" width="40" height="40"/></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="rstudio" width="40" height="40"/></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/></a>
